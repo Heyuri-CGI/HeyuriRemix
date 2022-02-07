@@ -1,3 +1,5 @@
+This program has been translated by Anonymous-san at Strange World@Heyuri.net: https://ayashii.net/bbs.php?m=f&s=1568&c=08&ff=202110.dat
+
 Uh, Mana here.
 I'll explain how to install RNS Remix 4.02.
 If you find any bugs, please post them to the BBS.
